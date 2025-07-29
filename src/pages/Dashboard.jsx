@@ -245,7 +245,7 @@ const Dashboard = () => {
     <div className="min-h-screen flex flex-col page-transition">
       <NavbarDashboard />
 
-      <main className="flex-grow bg-gray-50 pt-24 pb-16 px-4">
+      <main className="flex-grow bg-blue-50 pt-24 pb-16 px-4">
         <div className="container mx-auto">
           {/* Welcome Header */}
           <div className="mb-8 animate-fade-up">
